@@ -11,7 +11,7 @@ This project presents a fundamental valuation of Tesla Inc. using a Discounted C
 
 📊 **Tesla_DCF_Model_A_J.xlsx** — Full Excel valuation model
 
-📄 **Tesla_DCF_Summary.pdf** — Valuation report and investment case
+📄 **Tesla_DCF_Report.pdf** — Available on request
 
 ## Key Output
 
