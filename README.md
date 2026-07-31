@@ -15,7 +15,7 @@ The report concludes that the findings of the DCF approach and the relative valu
 
 ## Files
 
-📊 **Tesla_DCF_Model_A_J.xlsx** — Full Excel valuation model
+📊 **Tesla_DCF_Model_A_J.xlsx** — Full Excel valuation model File Below
 
 📄 **Tesla_DCF_Report.pdf** — Available on request
 
